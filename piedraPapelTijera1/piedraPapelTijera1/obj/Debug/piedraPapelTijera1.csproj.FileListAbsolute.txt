@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\bin\Debug\piedraPapelTijera1.exe.config
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\bin\Debug\piedraPapelTijera1.exe
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\bin\Debug\piedraPapelTijera1.pdb
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.Form1.resources
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.exe
+C:\Users\gustavo\Desktop\C#\piedraPapelTijera1\piedraPapelTijera1\obj\Debug\piedraPapelTijera1.pdb

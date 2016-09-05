@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\bin\Debug\facturacion.exe.config
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\bin\Debug\facturacion.exe
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\bin\Debug\facturacion.pdb
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.Form1.resources
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.exe
+C:\Users\gustavo\Desktop\C#\facturacion\facturacion\obj\Debug\facturacion.pdb

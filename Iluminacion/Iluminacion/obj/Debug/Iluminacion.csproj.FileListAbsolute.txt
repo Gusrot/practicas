@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\bin\Debug\Iluminacion.exe.config
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\bin\Debug\Iluminacion.exe
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\bin\Debug\Iluminacion.pdb
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.Form1.resources
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.exe
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.pdb
+C:\Users\gustavo\Desktop\C#\Iluminacion\Iluminacion\obj\Debug\Iluminacion.csprojResolveAssemblyReference.cache
