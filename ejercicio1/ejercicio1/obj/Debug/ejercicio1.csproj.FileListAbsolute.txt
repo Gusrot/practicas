@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\gustavo\Desktop\C#\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb

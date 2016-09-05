@@ -1,0 +1,5 @@
+C:\Users\gustavo\Desktop\C#\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\gustavo\Desktop\C#\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\gustavo\Desktop\C#\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
