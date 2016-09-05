@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.exe
+C:\Users\gustavo\Desktop\C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.pdb
