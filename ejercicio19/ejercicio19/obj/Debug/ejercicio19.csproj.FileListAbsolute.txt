@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\gustavo\Desktop\C#\ejercicio19\ejercicio19\obj\Debug\ejercicio19.pdb

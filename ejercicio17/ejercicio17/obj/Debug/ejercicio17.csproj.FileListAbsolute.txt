@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\bin\Debug\ejercicio17.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\bin\Debug\ejercicio17.exe
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\bin\Debug\ejercicio17.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\obj\Debug\ejercicio17.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\obj\Debug\ejercicio17.exe
+C:\Users\gustavo\Desktop\C#\ejercicio17\ejercicio17\obj\Debug\ejercicio17.pdb
