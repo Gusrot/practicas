@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.exe
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\bin\Debug\ejercicio12.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.exe
+C:\Users\gustavo\Desktop\C#\ejercicio12\ejercicio12\obj\Debug\ejercicio12.pdb

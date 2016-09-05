@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe.config
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\bin\Debug\ejercicio13.pdb
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\obj\Debug\ejercicio13.exe
+C:\Users\gustavo\Desktop\C#\ejercicio13\ejercicio13\obj\Debug\ejercicio13.pdb
