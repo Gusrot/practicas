@@ -1,0 +1,8 @@
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\bin\Debug\Pinturas.exe.config
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\bin\Debug\Pinturas.exe
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\bin\Debug\Pinturas.pdb
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\obj\Debug\Pinturas.Form1.resources
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\obj\Debug\Pinturas.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\obj\Debug\Pinturas.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\obj\Debug\Pinturas.exe
+C:\Users\gustavo\Desktop\C#\Pinturas\Pinturas\obj\Debug\Pinturas.pdb
