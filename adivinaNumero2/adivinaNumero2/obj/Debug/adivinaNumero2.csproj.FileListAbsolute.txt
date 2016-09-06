@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\bin\Debug\adivinaNumero2.exe.config
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\bin\Debug\adivinaNumero2.exe
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\bin\Debug\adivinaNumero2.pdb
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.Form1.resources
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.exe
+C:\Users\gustavo\Desktop\C#\adivinaNumero2\adivinaNumero2\obj\Debug\adivinaNumero2.pdb

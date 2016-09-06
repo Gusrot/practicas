@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\bin\Debug\Construccion.exe.config
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\bin\Debug\Construccion.exe
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\bin\Debug\Construccion.pdb
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.Form1.resources
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.exe
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.pdb
+C:\Users\gustavo\Desktop\C#\Construccion\Construccion\obj\Debug\Construccion.csprojResolveAssemblyReference.cache

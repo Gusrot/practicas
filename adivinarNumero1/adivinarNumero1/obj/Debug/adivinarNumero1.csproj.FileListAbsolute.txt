@@ -1,0 +1,8 @@
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\bin\Debug\adivinarNumero1.exe.config
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\bin\Debug\adivinarNumero1.exe
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\bin\Debug\adivinarNumero1.pdb
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\obj\Debug\adivinarNumero1.Form1.resources
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\obj\Debug\adivinarNumero1.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\obj\Debug\adivinarNumero1.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\obj\Debug\adivinarNumero1.exe
+C:\Users\gustavo\Desktop\C#\adivinarNumero1\adivinarNumero1\obj\Debug\adivinarNumero1.pdb
