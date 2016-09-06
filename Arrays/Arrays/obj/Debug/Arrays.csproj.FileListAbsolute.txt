@@ -1,0 +1,6 @@
+D:\Rotela Gustavo\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Rotela Gustavo\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Rotela Gustavo\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Rotela Gustavo\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Rotela Gustavo\Arrays\Arrays\obj\Debug\Arrays.pdb
